@@ -303,7 +303,7 @@ img{
 }
 
 .home__blob-img{
-    width: 170px;
+    width: 200px;
 }
 
 .home__data{
@@ -516,7 +516,7 @@ img{
     width: 85%;
 }
 
-.skills__js{
+.skills__sql{
     width: 70%;
 }
 
@@ -540,8 +540,8 @@ img{
     width: 70%;
 }
 
-.skills__indesign{
-    width: 90%;
+.skills__MATLAB{
+    width: 40%;
 }
 
 .skills__r{
